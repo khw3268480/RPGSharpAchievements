@@ -1,0 +1,10 @@
+{
+  "level": 5,
+  "typeName": "길드 영토 이동",
+  "amount": 1,
+  "rewardCommand": "command <nickname>",
+  "description": [
+    "길드 영토로 이동하세요.",
+    "/영토 이동"
+  ]
+}

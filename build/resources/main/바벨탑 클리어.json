@@ -1,0 +1,10 @@
+{
+  "level": 11,
+  "typeName": "바벨탑 클리어",
+  "objectName": "<바벨탑 층>",
+  "amount": 1,
+  "rewardCommand": "command <nickname>",
+  "description": [
+    "바벨탑 <바벨탑 층> 클리어 해주세요"
+  ]
+}

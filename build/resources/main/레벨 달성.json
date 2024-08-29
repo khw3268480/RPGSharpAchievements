@@ -1,0 +1,10 @@
+{
+  "level": 2,
+  "typeName": "레벨 달성",
+  "goalsLevel": 10,
+  "rewardCommand": "command <nickname>",
+  "description": [
+    "레벨을 10 이상 달성하세요.",
+    "진행도 - x"
+  ]
+}

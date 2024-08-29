@@ -1,0 +1,13 @@
+{
+  "level": 10,
+  "typeName": "무기 장착",
+  "objectName": "",
+  "amount": 1,
+  "rewardCommand": "command <nickname>",
+  "description": [
+    "무기 장착해주세요"
+  ],
+  "datacode" : [
+    "투구-무딘철제"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "level": 9,
+  "typeName": "직업 변경",
+  "objectName": "",
+  "amount": 1,
+  "rewardCommand": "command <nickname>",
+  "description": [
+    "직업 변경해주세요"
+  ]
+}

@@ -1,0 +1,13 @@
+name: RPGSharpAchievements
+version: '${version}'
+main: com.binggre.rpgsharpachievements.RPGSharpAchievements
+depend:
+  - RpgSharp
+softdepend:
+  - RPGSharpDungeon
+  - RPGSharpTerritory
+  - Versus
+api-version: '1.18'
+commands:
+  길라잡이:
+  길라잡이관리:

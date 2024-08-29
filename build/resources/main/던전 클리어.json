@@ -1,0 +1,13 @@
+{
+  "level": 6,
+  "typeName": "레이드 클리어",
+  "objectName": "레이드 이름",
+  "amount": 3,
+  "partySize": 2,
+  "partyMaxSize": 5,
+  "rewardCommand": "command <nickname>",
+  "description": [
+    "던전을 2인 이상, 5인 이하로 3번 클리어하세요.",
+    "진행도 - <player_amount> / <object_amount>"
+  ]
+}

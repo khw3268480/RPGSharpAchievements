@@ -1,0 +1,10 @@
+{
+  "level": 8,
+  "typeName": "채광",
+  "objectName": "철광석",
+  "amount": 10,
+  "rewardCommand": "command <nickname>",
+  "description": [
+    "채광해주세요"
+  ]
+}

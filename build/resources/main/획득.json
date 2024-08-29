@@ -1,0 +1,9 @@
+{
+  "level": 7,
+  "typeName": "획득",
+  "objectName": "아이템 그룹 이름",
+  "rewardCommand": "command <nickname>",
+  "description": [
+    "신화급  아이템을 획득하세요."
+  ]
+}

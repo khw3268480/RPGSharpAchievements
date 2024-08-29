@@ -1,0 +1,10 @@
+{
+  "level": 10,
+  "typeName": "필드 보스 처치",
+  "objectName": "<필드 보스 이름>",
+  "amount": 1,
+  "rewardCommand": "command <nickname>",
+  "description": [
+    "<필드 보스 이름> 필드 보스 처치해주세요"
+  ]
+}

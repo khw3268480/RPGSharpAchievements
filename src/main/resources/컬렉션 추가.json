@@ -1,0 +1,10 @@
+{
+  "level": 13,
+  "typeName": "컬렉션 추가",
+  "objectName": "<collection name>",
+  "amount": 1,
+  "rewardCommand": "command <nickname>",
+  "description": [
+    "컬렉션에 ?? 추가해주세요"
+  ]
+}

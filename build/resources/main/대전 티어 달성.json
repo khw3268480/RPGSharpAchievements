@@ -1,0 +1,10 @@
+{
+  "level": 4,
+  "typeName": "대전 티어 달성",
+  "objectName": "티어 이름",
+  "rewardCommand": "command <nickname>",
+  "description": [
+    "대전에서 승리하여 승격하세요.",
+    "진행도 - <player_amount> / <object_amount>"
+  ]
+}
